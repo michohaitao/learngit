@@ -1,0 +1,2 @@
+# learngit
+write  "hellow world"
